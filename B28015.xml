@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect relation of the taking of the towne of Preston in Lancashire by the Parliaments forces under the command of Colonell Sir John Seaton on Thursday the ninth day of February, 1642 as it was certified by some gentlemen of repute in the same county to a member of the House of Commons, with the names of those that were slain : together with very good nevvs from Cheshire.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28015</idno><idno type="EEBO-CITATION">12184426</idno>
+  <idno type="VID">197044</idno>
+  <idno type="EEBO-PROQUEST">2240961900</idno>
+  
+            <idno type="STC">Wing P1519</idno>
+            <idno type="OCLC">12184426</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E89, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect relation of the taking of the towne of Preston in Lancashire by the Parliaments forces under the command of Colonell Sir John Seaton on Thursday the ninth day of February, 1642 as it was certified by some gentlemen of repute in the same county to a member of the House of Commons, with the names of those that were slain : together with very good nevvs from Cheshire.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 16, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Seaton, John, --  Sir.</term>
+               <term type="geographic_name">Preston (Lancashire, England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197044:1"/>
+            <pb facs="tcp:197044:1"/>
+            <p> A perfect RELATION OF The taking of the Towne of <hi>Preston IN</hi> LANCASHIRE, By the <hi>PARLJAMENTS</hi> Forces under the Command of Colonell Sir <hi>John Seaton</hi> on Thursday the ninth day of <hi>February,</hi> 1642.</p>
+            <p>As it was certified by some Gentlemen of re<g ref="char:EOLhyphen"/>pute in the same County to a Member of the House of COMMONS, with the names of those that were slain.</p>
+            <p>Together, with very good nevvs from <hi>CHESHIRE.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the Commons in Parliament, That this Let<g ref="char:EOLhyphen"/>ter be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be sold at his shop in the Middle Temple. <hi>Febr.</hi> 16. 1642.</p>
+            <pb facs="tcp:197044:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:197044:2"/>
+            <head>
+               <hi>A perfect Relation of the taking of the Town of</hi> Preston <hi>in</hi> Lancashire, &amp;c.</head>
+            <opener>
+               <salute>Good Sir,</salute>
+            </opener>
+            <p>OUr due respects premised, I have of<g ref="char:EOLhyphen"/>ten mentioned a Designe, but now praised be God, there is one acted, the happy successe and victory the Lord of Hosts hath given our <hi>Lancashire</hi> Forces: Upon Munday last Sir <hi>John Seaton</hi> (the Major Generall) marched from this Town, attended with Serjeant Major <hi>Sparrow,</hi> Colonell <hi>Holland,</hi> Cap. <hi>Booth,</hi> Serjeant Major <hi>Birch,</hi> with them three Foot-companies, &amp; as many from <hi>Boul<g ref="char:EOLhyphen"/>ton,</hi> all these came to <hi>Blackburn,</hi> upon Tuesday night, thence marched along
+<pb n="4" facs="tcp:197044:3"/> with them, four or five Foot-companies of <hi>Blackburn</hi> Hundred, under the com<g ref="char:EOLhyphen"/>mand of Captain <hi>Nowell</hi> of Mearely, and other Captains towards <hi>Preston,</hi> to<g ref="char:EOLhyphen"/>gether with two thousand club-men up<g ref="char:EOLhyphen"/>on VVednesday night, and betimes the next morning they fell upon the Towne couragiously, and after about two hours fight they entered it, Capt. <hi>John Booth</hi> first entered, behaving himselfe most bravely, there was a great strife between Collonell <hi>Hollands</hi> company and Capt. <hi>John Booths</hi> which should first have en<g ref="char:EOLhyphen"/>trance; The Major Generall behaved himself gallantly at the end of the <hi>Church<g ref="char:EOLhyphen"/>street,</hi> where the entry was made; our Musquiets beat them from their cente<g ref="char:EOLhyphen"/>ryes and from the Steeple. There dyed of the Popish party, the Major of the Town, (Master <hi>Adam Morte)</hi> who kil<g ref="char:EOLhyphen"/>led
+<pb n="5" facs="tcp:197044:3"/> one of the Collonells men with push of his Pike, but afterwards lost his own life for it, together with his son, &amp; also M. <hi>Radcliff Hoghton</hi> Captain of the horse (and brother to Sir <hi>Guilbert Hoghton)</hi> Serjeant Major <hi>Purvey</hi> (lately come out of <hi>Jreland)</hi> and the Popish Doctor, Dr. <hi>Westby,</hi> with two or three Lievtenants and others more of quality are likewise slain, and divers others which I saw were mortally wounded, and to some procured Surgeons, Sir <hi>Guilbert Hoghton</hi> escaped by flight to <hi>Wigom,</hi> and what more I can<g ref="char:EOLhyphen"/>not tell, Captain <hi>Farrington</hi> and Captain <hi>Preston</hi> are brought Prisoners yester<g ref="char:EOLhyphen"/>night: old Master <hi>Anderton</hi> of Clayton (their great Popish commander) is taken, Master <hi>George Talbot,</hi> (Sir <hi>John Talbots</hi> son) Master <hi>Richard Fleetwood,</hi> Master <hi>Blundells,</hi> Mr. <hi>Abbott,</hi> Mr. <hi>Mawdesly,</hi>
+               <pb n="6" facs="tcp:197044:4"/> two <hi>Thomas Hoghtons,</hi> Captain <hi>Hoghton,</hi> (Sir <hi>Guilberts</hi> Nephew) <hi>Ralph Shorrock, John Hylton,</hi> and divers others of mea<g ref="char:EOLhyphen"/>ner qualitie, above two hundred, and your Cousin Master <hi>Townly</hi> of Tovvnly escaped narrovvly.</p>
+            <p>My Lady <hi>Hoghton,</hi> my Lady <hi>Gir<g ref="char:EOLhyphen"/>lington,</hi> and Mrs. <hi>Townly</hi> vvere also ta<g ref="char:EOLhyphen"/>ken as prize: VVe tooke three pieces of Ordnance, a murdering piece, a great number of Musquiets, and many horses vvith tvvo or three colours, and divers vvere pillaged to a purpose, fevv friends have suffered to any value; there vvere but tvvo Barrells of povvder found in the Tovvn, VVe had only three or four common Souldiers, not an Officer slain on our side, vve gave the enemy no lei<g ref="char:EOLhyphen"/>sure to anoy us vvith their Guns our en<g ref="char:EOLhyphen"/>try vvas so quick, and the execution done
+<pb n="7" facs="tcp:197044:4"/> was most with the sword: all the Companies except Captain <hi>Nowells</hi> stayes there, and I thinke does intend to Garrison that Town; the fruits of this successe are a large contribution out of the adjacent parts for maintenance of our forces, and an interuption of the passage from <hi>Newcastle</hi> to <hi>Chester</hi> and <hi>Shrewsbury,</hi> of what further concern<g ref="char:EOLhyphen"/>ment it is to our Countrey I need not relate to you, and in what sort it will be good for the Kingdom you are able to conceive; Upon our fasting and praying on Wednesday last, God hath given us this victory. <hi>Deo detur Gloria.</hi>
+            </p>
+            <p>From <hi>Chester</hi> very good news, Master <hi>Lee</hi> of Aldington hath left his home, his Tennants, Friends, and arms, are now for the <hi>Militia,</hi> they beat our new Earl and all those Popish ones eve<g ref="char:EOLhyphen"/>ry day in some place, driving them from hold to hold, and killing with good successe: I pray you thanke God for us, and pray we may pro<g ref="char:EOLhyphen"/>ceed with successe, and that we may heare good news from your parts; which shall be the dai<g ref="char:EOLhyphen"/>ly task of</p>
+            <closer>
+               <signed>Your loving friends to serve you.</signed>
+               <dateline>
+                  <hi>Manchester</hi>
+                  <date>
+                     <hi>this</hi> 10<seg rend="sup">th</seg>
+                     <hi>of</hi> Feb: 1642.</date>
+               </dateline>
+            </closer>
+            <closer/>
+            <postscript>
+               <pb n="8" facs="tcp:197044:5"/>
+               <p> You are desired to hasten the money, and what other supplies you can.</p>
+               <p>Major <hi>Sparrow</hi> denyes all hath been spoken in his commendation, he hath wholly surprized and taken the good affections of all our Coun<g ref="char:EOLhyphen"/>try Gentlemen who are Captains, whereof I am right glad, he acted his part in this, and the con<g ref="char:EOLhyphen"/>triving thereof very well, nor do I know that a<g ref="char:EOLhyphen"/>ny man was defective in his duty, but all very couragious.</p>
+               <p>The Ladyes and Gentlewomen of note found here, are guarded.</p>
+            </postscript>
+         </div>
+         <div type="license" subtype="order_to_print">
+            <opener>
+               <dateline>
+                  <date>14. Febr: 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Commons in Parliament, That this Letter bee forthwith Printed and published.</p>
+            <closer>
+               <signed>H: Elsynge, Cler: Parl: D: Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
